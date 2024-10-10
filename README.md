@@ -22,6 +22,10 @@ Here's an overview:
 - A computer
 - A micro USB to (whatever port your computer has) Cable
 
+**Installation**
+
+To Install DoorSecure Mini onto your calliope, download the latest release (or any release really) from the Releases tab. Connect your Calliope Mini to your Computer with a cable. Open your computer's File Manager (Explorer for Windows, Files for ChromeOS, Finder for macOS) and drag the downloaded file onto the newly appeared "MINI" partition. Your Calliope's yellow/green light should blink for a few seconds and then DoorSecure Mini should start right up. You'll know the transfer worked when you see the self-test (5x5 LEDs All turn on, RGB LED switches through Red, Green and Blue.).
+
 Thanks to everyone who downloads this and tries it out. If you have an issue please open an issue in the issues tab here. Thanks!
 
-- AVX_Advanced
+AVX_Advanced
